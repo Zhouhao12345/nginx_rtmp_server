@@ -1,0 +1,11 @@
+live:
+    image: artarn/nginx_rtmp 
+    restart: always
+    volumes:
+      - './volumes/conf/nginx.conf:/usr/local/nginx/conf/nginx.conf:rw'
+      - './volumes/servers:/usr/local/nginx/conf/conf.d:rw'
+      - './volumes/logs:/usr/local/nginx/logs:rw'
+    ports:
+      - 8081:80
+      - 1935:1935
+

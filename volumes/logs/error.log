@@ -1,0 +1,6 @@
+2019/10/18 03:53:05 [emerg] 6#0: "access_log" directive is not allowed here in /usr/local/nginx/conf/nginx.conf:6
+2019/10/18 03:53:06 [emerg] 6#0: "access_log" directive is not allowed here in /usr/local/nginx/conf/nginx.conf:6
+2019/10/18 03:53:07 [emerg] 6#0: "access_log" directive is not allowed here in /usr/local/nginx/conf/nginx.conf:6
+2019/10/18 03:53:08 [emerg] 6#0: "access_log" directive is not allowed here in /usr/local/nginx/conf/nginx.conf:6
+2019/10/18 03:53:09 [emerg] 6#0: "access_log" directive is not allowed here in /usr/local/nginx/conf/nginx.conf:6
+2019/10/18 03:53:12 [emerg] 6#0: "access_log" directive is not allowed here in /usr/local/nginx/conf/nginx.conf:6
